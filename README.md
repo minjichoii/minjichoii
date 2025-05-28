@@ -2,6 +2,7 @@
 <!-- ### Minji Choi - Robot Software Devleoper -->
 <!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=minjichoii)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjichoii&layout=compact)
+![](https://hit.yhype.me/github/profile?account_id=minjichoii)
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=minjichoii&utm_content=farm">
 <img
