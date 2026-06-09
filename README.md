@@ -1,5 +1,5 @@
 ## Hi 👋 
-#### 👤 Minji Choi - Robot Software Devleoper
+#### 👤 Minji Choi 
 <!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=minjichoii)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjichoii&layout=compact)
 
